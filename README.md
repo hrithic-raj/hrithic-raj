@@ -11,8 +11,14 @@
 <!--  ![hrj's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrithic-raj&theme=dark&show_icons=true) -->
 
 ### My Technical Skills
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithic-raj"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithic-raj"/> -->
 
+<!-- <picture>
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=hrithic-raj&show_icons=true&bg_color=88888811&border_color=88888833&text_color=888888&custom_title=GitHub&rank_icon=percentile&number_format=long" draggable="false" />
+  </picture> -->
+  <picture style="padding=10px">
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithic-raj&bg_color=88888811&border_color=88888833&text_color=888888&layout=compact&size_weight=0.5&count_weight=0&langs_count=8" draggable="false" />
+  </picture>
 <div style="display: flex">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
