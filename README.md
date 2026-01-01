@@ -2,6 +2,7 @@
 # Me Hrithic Raj 
 I'm a MERN Stack Developer and a Fivem Developer
 
+![3D Contributions](./profile-3d-contrib/profile-customize.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hrj_clown) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrithic-raj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrithicraj730@gmail.com) 
@@ -44,20 +45,17 @@ I'm a MERN Stack Developer and a Fivem Developer
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) -->
-# 📊 GitHub Stats:
-<a href="https://github.com/hrithic-raj">
+<!-- # 📊 GitHub Stats: -->
+<!-- <a href="https://github.com/hrithic-raj">
   <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=hrithic-raj&theme=dark"  height="400"/>
-</a> 
+</a>  -->
 
-![](https://github-readme-stats.vercel.app/api?username=hrithic-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=hrithic-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hrithic-raj&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithic-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithic-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hrithic-raj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hrithicraj) 
-
-
-![3D Contributions](./profile-3d-contrib/profile-customize.svg)
