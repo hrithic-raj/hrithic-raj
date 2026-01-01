@@ -45,14 +45,16 @@ I'm a MERN Stack Developer and a Fivem Developer
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
+<a href="https://github.com/hrithic-raj">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=hrithic-raj&theme=dark"  height="400"/>
+</a> 
+
 ![](https://github-readme-stats.vercel.app/api?username=hrithic-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hrithic-raj&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hrithic-raj&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrithic-raj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hrithic-raj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hrithicraj) 
+-->
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hrithicraj) 
