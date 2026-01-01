@@ -2,7 +2,10 @@
 # Me Hrithic Raj 
 I'm a MERN Stack Developer and a Fivem Developer
 
-![3D Contributions](./profile-3d-contrib/profile-customize.svg)
+<!-- ![3D Contributions](./profile-3d-contrib/profile-customize.svg) -->
+<picture>
+    <img src="profile-3d-contrib/profile-customize.svg" draggable="false" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrithic-raj) 
