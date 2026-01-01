@@ -20,6 +20,7 @@ jobs:
       - run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull --rebase origin main
           git add contributions.json
           git commit -m "Update contributions data" || echo "No changes"
           git push
